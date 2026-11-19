@@ -1,42 +1,46 @@
- <div align="center">
+&#x20;\<div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Velmurugan%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Engineer%20%7C%20Python%20%7C%20SQL%20%7C%20Spark&descAlignY=62&descSize=15" />
+\<!-- ================= HERO ================= -->
 
-<!-- TYPING HEADER -->
-<a href="https://github.com/velmurugan27s">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Aspiring+Data+Engineer;Building+End-to-End+Data+Pipelines;Python+%7C+SQL+%7C+PySpark;Apache+Airflow+%7C+dbt+%7C+PostgreSQL;Data+Quality+%26+Pipeline+Observability" alt="Typing SVG" />
-</a>
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:2563EB&height=200&section=header&text=VELMURUGAN%20S&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=ASPIRING%20DATA%20ENGINEER&descSize=17&descAlignY=60&descColor=BFDBFE](https://capsule-render.vercel.app/api?type=waving\&color=0:0B1020,50:312E81,100:2563EB\&height=200\&section=header\&text=VELMURUGAN%20S\&fontSize=48\&fontColor=FFFFFF\&fontAlignY=36\&animation=twinkling\&desc=ASPIRING%20DATA%20ENGINEER\&descSize=17\&descAlignY=60\&descColor=BFDBFE)" />
 
-<p>
-<a href="https://linkedin.com/in/velmurugan-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:velmurugan273s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/India-6,11,20?style=flat-square&logo=googlemaps&logoColor=white&color=20232a" />
-</p>
+\<h3>Building Reliable Data Pipelines | Engineering Data-Driven Solutions\</h3>
 
-</div>
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Python+%7C+SQL+%7C+PySpark;Apache+Spark+%7C+Apache+Airflow;Building+End-to-End+ELT+Pipelines;Data+Quality+%26+Pipeline+Observability;Turning+Raw+Data+Into+Reliable+Data](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=19\&duration=3000\&pause=1000\&color=60A5FA\&center=true\&vCenter=true\&width=750\&lines=Python+%7C+SQL+%7C+PySpark;Apache+Spark+%7C+Apache+Airflow;Building+End-to-End+ELT+Pipelines;Data+Quality+%26+Pipeline+Observability;Turning+Raw+Data+Into+Reliable+Data)" />
+
+\<br/>
+
+\<a href="[https://github.com/velmurugan27s](https://github.com/velmurugan27s)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a> \<a href="[https://linkedin.com/in/velmurugan-s](https://linkedin.com/in/velmurugan-s)"> \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/> \</a> \<a href="mailto\:velmurugan273s\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-6366F1?style=for-the-badge\&logo=gmail\&logoColor=white)"/> \</a>
+
+\<br/>\<br/>
+
+\<img src="[https://komarev.com/ghpvc/?username=velmurugan27s&style=flat-square&color=6366F1&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=velmurugan27s\&style=flat-square\&color=6366F1\&label=PROFILE+VIEWS)" />
+
+\</div>
 
 ---
 
-### 👨‍💻 About Me
+\<!-- ================= ABOUT ================= -->
+
+## `$ whoami` — About Me
 
 ```python
 class Velmurugan:
     def __init__(self):
         self.name = "Velmurugan S"
         self.role = "Aspiring Data Engineer"
-        self.education = "B.Tech Information Technology (2026)"
+        self.education = "B.Tech - Information Technology"
+        self.graduation = "May 2026"
+        self.location = "India"
 
         self.languages = ["Python", "SQL"]
 
-        self.data_engineering = [
+        self.data_stack = [
             "Apache Spark",
             "PySpark",
             "Apache Airflow",
             "dbt",
-            "ETL / ELT",
-            "Data Modeling",
-            "Data Quality"
+            "Pandas"
         ]
 
         self.databases = [
@@ -44,183 +48,204 @@ class Velmurugan:
             "MySQL"
         ]
 
-        self.tools = [
+        self.infrastructure = [
             "Docker",
+            "Linux",
             "Git",
-            "GitHub",
-            "Linux"
+            "GitHub"
         ]
 
-        self.current_focus = [
-            "Building scalable data pipelines",
-            "Data Quality & Observability",
-            "Spark optimization",
-            "Cloud Data Engineering"
+        self.observability = [
+            "Great Expectations",
+            "Prometheus",
+            "Grafana"
         ]
 
-    def motto(self):
-        return "Turning raw data into reliable, analytics-ready data."
+    def mission(self):
+        return "Build reliable, scalable and maintainable data platforms."
+
 
 me = Velmurugan()
-print(me.motto())
+print(me.mission())
 ```
 
-I am an aspiring Data Engineer interested in building reliable, scalable, and maintainable data platforms.
+I'm an aspiring Data Engineer passionate about building end-to-end data pipelines, distributed data processing systems, and reliable data platforms.
 
-I enjoy working with Python, SQL, distributed data processing, workflow orchestration, and modern data engineering tools.
+I enjoy transforming raw data into structured, analytics-ready datasets while focusing on data quality, workflow orchestration, and pipeline reliability.
 
-Currently, I am strengthening my skills by building end-to-end projects that simulate real-world data engineering workflows.
-
----
-
-### 🛠️ Tech Stack
-
-**Programming Languages**
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**Data Engineering & Processing**
-
-<p>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-**Databases & Data Warehousing**
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**DevOps & Tools**
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
-**Monitoring & Data Quality**
-
-<p>
-<img src="https://img.shields.io/badge/Great_Expectations-FFB400?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
+**Currently focused on:** Apache Spark, PySpark, Airflow, SQL optimization, and modern data engineering architecture.
 
 ---
 
-### 🚀 Featured Data Engineering Projects
+\<!-- ================= TECH STACK ================= -->
 
-<table>
-<tr>
-<td width="50%">
+## `$ tech_stack` — Engineering Toolkit
 
-<h3 align="center">🛒 E-Commerce ELT Data Platform</h3>
+### 01. Programming & Data Processing
 
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</div>
+\<p>
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)"/>
+\</p>
 
-An end-to-end ELT data platform built using the Brazilian Olist e-commerce dataset.
+### 02. Data Engineering & Orchestration
 
-- Data ingestion and processing.
-- Spark-based data transformations.
-- Airflow workflow orchestration.
-- dbt transformations and testing.
+\<p>
+\<img src="[https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge\&logo=apachespark\&logoColor=black)"/>
+\<img src="[https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge\&logo=dbt\&logoColor=white)"/>
+\</p>
+
+### 03. Databases & Storage
+
+\<p>
+\<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)"/>
+\</p>
+
+### 04. Data Quality & Observability
+
+\<p>
+\<img src="[https://img.shields.io/badge/Great_Expectations-FFB400?style=for-the-badge](https://img.shields.io/badge/Great_Expectations-FFB400?style=for-the-badge)"/>
+\<img src="[https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)"/>
+\</p>
+
+### 05. DevOps & Development Tools
+
+\<p>
+\<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)"/>
+\<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)"/>
+\</p>
+
+---
+
+\<!-- ================= PROJECTS ================= -->
+
+## `$ ls ./featured_projects` — Engineering Projects
+
+### 01. E-Commerce ELT Data Platform
+
+\<img width="100%" src="[https://img.shields.io/badge/PROJECT-01-2563EB?style=flat-square&labelColor=111827](https://img.shields.io/badge/PROJECT-01-2563EB?style=flat-square\&labelColor=111827)"/>
+
+**An end-to-end ELT platform built using the Brazilian Olist e-commerce dataset.**
+
+**Technology Stack**
+
+`Python` `PySpark` `Apache Airflow` `dbt` `PostgreSQL` `Docker`
+
+**Key Engineering Components**
+
+- Data ingestion and processing using Python.
+- Spark-based data processing.
+- Airflow DAGs for workflow orchestration.
+- dbt transformations and data testing.
 - PostgreSQL data warehouse.
-- Medallion architecture.
+- Medallion architecture with structured data layers.
 
-</td>
-<td width="50%">
+**Focus:** Building maintainable ELT workflows and analytics-ready data.
 
-<h3 align="center">🔍 Data Quality & Observability Platform</h3>
+---
 
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Great_Expectations-FFB400?style=flat-square" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-</div>
+### 02. Data Quality & Pipeline Observability Platform
 
-A configuration-driven platform for automated data validation and pipeline observability.
+\<img width="100%" src="[https://img.shields.io/badge/PROJECT-02-7C3AED?style=flat-square&labelColor=111827](https://img.shields.io/badge/PROJECT-02-7C3AED?style=flat-square\&labelColor=111827)"/>
 
-- Seven data quality dimensions.
-- YAML-driven validation rules.
-- Parallel Airflow validation workflows.
+**A configuration-driven framework for automated data validation and pipeline observability.**
+
+**Technology Stack**
+
+`Python` `Great Expectations` `Apache Airflow` `PostgreSQL` `Prometheus` `Grafana` `Docker`
+
+**Key Engineering Components**
+
+- Seven dimensions of data quality validation.
+- YAML-driven validation configurations.
+- Parallel table-level validation workflows.
 - Severity-based quality gates.
-- Historical validation results.
-- Prometheus metrics and Grafana dashboards.
+- Historical validation result tracking.
+- Prometheus metrics collection.
+- Grafana monitoring dashboards.
 
-</td>
-</tr>
-</table>
-
----
-
-### 📚 What I'm Currently Working On
-
-- Building end-to-end data engineering projects.
-- Improving PySpark and Apache Spark fundamentals.
-- Learning distributed data processing and Spark optimization.
-- Developing reliable ETL/ELT pipelines with Apache Airflow.
-- Practicing advanced SQL and database optimization.
-- Exploring data quality engineering and pipeline observability.
-- Learning cloud data engineering concepts.
+**Focus:** Improving data reliability, detecting data anomalies, and monitoring pipeline health.
 
 ---
 
-### 📊 GitHub Statistics
+\<!-- ================= ARCHITECTURE INTERESTS ================= -->
 
-<div align="center">
+## `$ engineering_interests` — What I Work With
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=velmurugan27s&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velmurugan27s&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=velmurugan27s&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=velmurugan27s&theme=tokyo-night&hide_border=true" />
-
-</div>
+| Engineering Area | Concepts                               |
+| ---------------- | -------------------------------------- |
+| Data Ingestion   | Batch ingestion, CSV, structured data  |
+| Data Processing  | Python, Spark, PySpark                 |
+| Orchestration    | Airflow DAGs, scheduling, dependencies |
+| Transformation   | SQL, dbt, ELT                          |
+| Data Storage     | PostgreSQL, relational databases       |
+| Data Quality     | Great Expectations, validation rules   |
+| Observability    | Prometheus, Grafana, monitoring        |
+| Infrastructure   | Docker, Linux, Git                     |
 
 ---
 
-### 🎓 Education
+\<!-- ================= LEARNING ================= -->
 
-**Bachelor of Technology – Information Technology**
+## `$ current_focus` — Currently Learning & Improving
+
+- [x] Python and SQL foundations
+- [x] Apache Spark foundations
+- [x] Apache Airflow fundamentals
+- [x] Building end-to-end ELT projects
+- [ ] Advanced PySpark and Spark optimization
+- [ ] Advanced SQL and query optimization
+- [ ] Cloud Data Engineering
+- [ ] Production-grade pipeline reliability
+
+---
+
+\<!-- ================= GITHUB STATS ================= -->
+
+## `$ system_metrics` — GitHub Activity
+
+\<div align="center">
+
+\<img height="170" src="[https://github-readme-stats.vercel.app/api?username=velmurugan27s&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=velmurugan27s\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)"/>
+
+\<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=velmurugan27s&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=velmurugan27s\&layout=compact\&theme=tokyonight\&hide_border=true)"/>
+
+\<br/>\<br/>
+
+\<img src="[https://streak-stats.demolab.com?user=velmurugan27s&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=velmurugan27s\&theme=tokyonight\&hide_border=true)"/>
+
+\<br/>\<br/>
+
+\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=velmurugan27s&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=velmurugan27s\&theme=tokyo-night\&hide_border=true\&area=true)"/>
+
+\</div>
+
+---
+
+\<!-- ================= EDUCATION ================= -->
+
+## `$ education` — Academic Background
+
+**Bachelor of Technology — Information Technology**
 
 KLN College of Engineering, Tamil Nadu, India
 
-Graduated: May 2026
+**Graduated:** May 2026
 
 ---
 
-### 🎯 Career Interests
+\<!-- ================= CAREER ================= -->
+
+## `$ career_interests` — Professional Interests
 
 - Data Engineer
 - Junior Data Engineer
@@ -228,23 +253,30 @@ Graduated: May 2026
 - ETL Developer
 - Analytics Engineer
 
+Interested in solving real-world data engineering problems and building dependable data infrastructure.
+
 ---
 
-### 🤝 Let's Connect
+\<!-- ================= CONTACT ================= -->
 
-I'm interested in connecting with Data Engineers, developers, and professionals working on data platforms, distributed systems, and modern data infrastructure.
+## `$ connect` — Let's Connect
 
-<p align="center">
-<a href="https://linkedin.com/in/velmurugan-s">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:velmurugan273s@gmail.com">
-<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+I'm always interested in connecting with engineers, developers, and professionals working in data engineering, distributed systems, and modern data platforms.
 
-<div align="center">
+\<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+\<a href="[https://linkedin.com/in/velmurugan-s](https://linkedin.com/in/velmurugan-s)">
+\<img src="[https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
+\</a>
 
-</div>
+\<a href="mailto\:velmurugan273s\@gmail.com">
+\<img src="[https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
+\</a>
+
+\<br/>\<br/>
+
+**"Turning raw data into reliable, analytics-ready data."**
+
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:0B1020&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2563EB,50:312E81,100:0B1020\&height=120\&section=footer)"/>
+
+\</div>
